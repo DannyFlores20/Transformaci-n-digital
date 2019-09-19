@@ -57,3 +57,9 @@ Es muy necesario avanzar hacia una cultura digital dentro de la compañía. Lide
 # Analizar y medir el nivel de digitalización
 Medir y analizar el proceso de digitalización es fundamental para afrontar la transformación digital. Observar la evolución ayuda a corregir errores y desviaciones que puedan estar dándose en las compañías.
 
+# CONCLUSIONES
+En un contexto tecnológico que muchos expertos comparan a la Revolución Industrial o a la automatización de los procesos,  la transformación digital no debe verse solo como una estrategia para ganar competitividad sino como una adaptación que resultará imprescindible para la supervivencia en todos los órdenes de nuestra sociedad. Pero, esta radical transformación trae consigo no solo oportunidades sino también nuevos riesgos, que deben ser, primero comprendidos en toda su amplitud y consecuencias, y luego
+debidamente gestionados.
+
+En este sentido, debates como el desarrollado hoy muestran la necesidad de profundizar en el análisis de las consecuencias de estos nuevos fenómenos, producto de la incorporación de las tecnologías en todos los espectros de la vida.
+Pero no solo es necesario abordar esta reflexión, sino que, además, hay que hacerlo con la debida premura y velocidad, pues, como demuestra los hechos, la realidad no espera. 
