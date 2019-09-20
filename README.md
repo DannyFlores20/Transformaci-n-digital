@@ -1,5 +1,5 @@
 # Transformación-digital
-
+![Transformación digital](https://www.madboxpc.com/wp-content/uploads/2018/06/Qu%C3%A9-es-la-transformaci%C3%B3n-digital.jpg)
 # Qué es y cómo desarrollar la transformación digital.
  Es la integración de cambios digitales en las organizaciones empresariales , la transformación digital se refiere a como incorporar tecnología, digitalizar procesos, preparar a los equipos para trabajar en digital  y la modificación del negocio con la lógica  de la economía digital teniendo a los clientes como prioridad para mejorar la preformarse , el desempeño y el alcance de la organización. 
  
@@ -10,6 +10,7 @@
 La transformación digital ayuda a una organización a seguir el ritmo a las demandas emergentes de los clientes, manteniendolas en el futuro. La transformación digital permite que las organizaciones compitan mejor en un entorno económico que cambia constantemente a medida que la tecnología evoluciona. Con ese fin, la transformación digital es necesaria para cualquier empresa, organización sin fines de lucro o institución que busque sobrevivir en el futuro.la transformación digital requiere un examen y reinvención de la mayoría, si no de todas las áreas dentro de una organización
 
 # Puntos a tener en cuenta en la transformación digital
+![Puntos a tener en cuenta](https://blogs.imf-formacion.com/blog/mba/wp-content/uploads/2018/11/reto-empresas-transformacion-digital.jpg)
 En primer lugar hay que interiorizar que necesitamos cambiar para adaptarnos a la nueva era digital, este es el primer paso, sino lo tenemos claro no avanzamos.
 
 Nos encontramos con dos tipos de empresas generalmente, las tradicionales que dicen que su negocio no tiene que transformarse y las que ya han creado una buena web, tienen sus redes sociales, app y su equipo publica e intercambia información en la red.
@@ -24,6 +25,7 @@ Empleados formados para la era digital (obtener y acceder a la información, col
 Operaciones digitales. Esto es necesario para conectar mejor con los clientes, ofrecer nuevos modelos de compromiso y así transformar sus experiencias, la transformación digital tiene que comenzar cambiando la forma en que opera el negocio en los diferentes niveles.
 
 # Cómo es el cliente digital
+![Cliente digital](https://blog.prodware.es/wp-content/uploads/2017/06/nuevo-consumidor.jpg)
 Los clientes tienen grandes expectativas y, si tu empresa no puede satisfacerlos, cambiarán a la empresa que sí pueda hacerlo.
 
 Hay que tener muy en cuenta la personalización, un cliente digital comprará más en una empresa que le reconoce por su nombre, tiene su historial de compras y sabe que le gusta y por tanto le ofrece recomendaciones personalizadas.
@@ -32,7 +34,7 @@ Hay que tener muy en cuenta la personalización, un cliente digital comprará m�
 Como habrás observado la transformación digital conlleva muchos puntos a tener en cuenta y hay que realizar muchos cambios en las empresas para lograrlo. Todo ello es necesario para ofrecer una atención personalizada al nuevo cliente digital, ya no es el futuro, es el presente y hay que empezar a adaptar la empresa para poder competir en el mercado actual.
 
 # CONSEJOS PARA Transformación-DIJITAL
-
+![Consejos para transformación digital](https://www.juanmerodio.com/wp-content/uploads/transformacion-digital.jpg)
 # Estrategia y plan individualizados
 Estructurar un plan individualizado y establecer una estrategia acorde con los retos que plantee la compañía ofrece oportunidades de negocio. Se trata de elaborar un proyecto que dé respuestas a todo lo anterior y donde el cliente sea el centro de la transformación. La digitalización debe ser una obligación a largo plazo en la que se implique a toda la estructura de la empresa, así como a los stakeholders.
 
@@ -52,6 +54,7 @@ Se debe tener en cuenta la importancia de la recogida de información interna y 
 Se trata de adaptar la estructura organizacional de la empresa a modelos planos asentados en grupos de trabajo multidisciplinares que permitan una visión global.
 
 # Cultura digital
+![Cultura digital](https://campusculturadigital.com/media/k2/items/cache/063ee9aeb9f60efa02823e51450f82ce_XL.jpg)
 Es muy necesario avanzar hacia una cultura digital dentro de la compañía. Liderada, como ya hemos dicho anteriormente, por su CEO. La flexibilidad, la creatividad y la agilidad, son características que han de estar presentes y deben ser incitadas por la directiva.
 
 # Analizar y medir el nivel de digitalización
